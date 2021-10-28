@@ -1,4 +1,4 @@
-### Hi there 👋	
+### Hello there 👋	
 ### I am Grace Fidele DUSHIME and this is my daily.dev card with the progress I am making while reading, day-to-day.
 ### Do get the daily dev extension on your Chrome to stay updated on Tech highlights and learnings on a daily basis.
 
